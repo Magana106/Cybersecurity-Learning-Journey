@@ -1,2 +1,2 @@
-# Cybersecurity-Learning-Journey
-Documenting my transition into cybersecurity - projects, notes, and learning path
+# Cybersecurity-Portfolio
+Documenting my journey from housekeeping to SOC Analyst through hands-on projects and continuous learning
